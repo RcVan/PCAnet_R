@@ -1,0 +1,20 @@
+#######################################
+###         NML homework 4          ###
+###          loadData.r             ###
+###           Ian, Fan              ###
+###          2019.02.11             ###
+#######################################
+
+## clear variables and set work directory
+# rm(list = ls())
+# setwd("/Users/rcusf/Desktop/NMLh5")
+
+
+## read data file
+trainData = read.table("iris-train.txt", head = TRUE)
+# testData = read.table("iris-test.txt", head = TRUE)
+
+row_num = nrow(trainData)
+
+
+
