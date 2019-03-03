@@ -1,1 +1,6 @@
-This neural network is R based, implemented with Oja’s Symmetric Subspace Algorithm and Sanger’s Generalized Hebbian Algorith, to calculate first K principle components of the input data.
+This neural network is R based codes to calculate first K principle components of the input data, implemented with:
+
+1) Oja’s Symmetric Subspace Algorithm 
+2) Sanger’s Generalized Hebbian Algorith
+
+
