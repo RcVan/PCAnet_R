@@ -1,5 +1,4 @@
 #######################################
-###         NML homework 5          ###
 ###          calculPCA.r            ###
 ###           Ian, Fan              ###
 ###          2019.02.25             ###
@@ -7,7 +6,7 @@
 
 ## clear variables and set work directory
 # rm(list = ls())
-# setwd("/Users/rcusf/Desktop/NMLh5")
+# setwd("/Users/rcusf/Desktop/")
 
 
 # source

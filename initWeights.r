@@ -1,5 +1,4 @@
 #######################################
-###         NML homework 4          ###
 ###         initWeights.r           ###
 ###           Ian, Fan              ###
 ###          2019.02.03             ###
@@ -11,7 +10,7 @@
 
 ## clear variables and set work directory
 # rm(list = ls())
-# setwd("/Users/rcusf/Desktop/NMLh5")
+# setwd("/Users/rcusf/Desktop/")
 
 
 ## import zeros function

@@ -1,5 +1,4 @@
 #######################################
-###         NML homework 4          ###
 ###          loadData.r             ###
 ###           Ian, Fan              ###
 ###          2019.02.11             ###
@@ -7,7 +6,7 @@
 
 ## clear variables and set work directory
 # rm(list = ls())
-# setwd("/Users/rcusf/Desktop/NMLh5")
+# setwd("/Users/rcusf/Desktop/")
 
 
 ## read data file
